@@ -1,0 +1,7 @@
+# tindev
+
+Projeto inpirado no tinder com o proposito de se gerar networking entre Devs do [GitHub](http://github.com/). 
+
+Foi desenvolvido com [React Native](https://reactnative.dev/) durante a Semana OmniStack, que foi um evento online produzido pela [Rocketseat](https://rocketseat.com.br/)
+
+![enter image description here](https://lh3.googleusercontent.com/maKyYODvqnmFCO_ifDZ1BET_wbvPsex7-9XfzWdbGTOA4TxUdOO5rAaSstITdbOZI0EzGjuurWt2MEUnhErMNnqtxUf7Qr3aW2D-Ui2ZP1j3Yb_PV1cYi3Qz2swgus456yFpK0PFRo0uB6A-yBExTbhfwyUFriO_nR5mcJdppnY86xHbT7Y-TtWU5iQRx4ubfK9L0WZq4wQvyPq_ms-QX8YmwRg5c7JfFgfAihTXlzIBmSIFvAxXrAHn2zpjjXVqBvaW5ZZQNN0STEVQmC0PJ1fjY3-Cu32S_AuOWXJUQHWuYW4wVjCiiWhURJFSRlCbr7VN692uheEYbmgPsl9NzD-__o7IISwb4eermulQ8cbvcKM4jJYorATXyuX_11oE36X1ZFzsU4E3pVjIYnH7GDmMDO3Re8j4PKAhrnMLbTC0hNU9Lz8ZJokwkEWTAHIeRfTjdALSm7RJo28TQD2n09WcBDewTM8gNY54VMIck9hOCn8bOKjogFqGcf5cGz-EMCQ0RqpXJkuMRUX0kbjA_cOdf6D6aDFor9XHbolT8bBZEWAuf5YUJYsofh32UIAg2GldA90mCCiSmXypfB9o_vs6yCyp1LGiBWkixwD04Z6j58C-qN9_rGrMxMofNjwAB9UVdH4t6Q6NNyQN9ry1YS923mjS5VmjNeqN6iMzoCDhzceo2cRDbsLAXVFS=w784-h472-no?authuser=0)
